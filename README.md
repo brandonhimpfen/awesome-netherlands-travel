@@ -10,6 +10,8 @@
 
 The Netherlands is a densely networked European destination celebrated for its innovative water management, historic canal cities, extensive cycling infrastructure, and master artists. This list is intended for cultural travelers, urban explorers, cycling enthusiasts, and long-term remote professionals.
 
+_Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
+
 ## Contents
 
 - [Official & Planning](#official--planning)
@@ -118,7 +120,9 @@ Practical advice on emergency contacts, medical assistance, and local safety rul
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
