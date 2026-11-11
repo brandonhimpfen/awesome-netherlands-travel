@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in the Netherlands, covering official tourism boards, train networks, cycling routes, regional guides, and remote work resources.
 
+The Netherlands is a densely networked European destination celebrated for its innovative water management, historic canal cities, extensive cycling infrastructure, and master artists. This list is intended for cultural travelers, urban explorers, cycling enthusiasts, and long-term remote professionals.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
